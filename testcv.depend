@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1561591011 source:c:\users\user\desktop\testcv\testcv\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	"vec3.h"
+	"ray.h"
+	<fstream>
+	"hitable.h"
+	<float.h>
+	"hitablelist.h"
+	"sphere.h"
+	"camera.h"
+	"materija.h"
+	"plane.h"
+	"opencv2/opencv.hpp"
+	"polygon.h"
+	"disc.h"
+
+1553705028 source:c:\users\user\desktop\testcv\testcv\ray.cpp
+
+1561560519 source:c:\users\user\desktop\testcv\testcv\vec3.cpp
+	"vec3.h"
+	<math.h>
+	<iostream>
+	<stdlib.h>
+
+1561560530 c:\users\user\desktop\testcv\testcv\vec3.h
+	<iostream>
+	<stdlib.h>
+	<math.h>
+
+1558539836 c:\users\user\desktop\testcv\testcv\ray.h
+	"vec3.h"
+
+1558539774 c:\users\user\desktop\testcv\testcv\hitable.h
+	"ray.h"
+
+1554915344 c:\users\user\desktop\testcv\testcv\hitablelist.h
+	"hitable.h"
+
+1558542344 c:\users\user\desktop\testcv\testcv\sphere.h
+	"hitable.h"
+	"materija.h"
+
+1558543210 c:\users\user\desktop\testcv\testcv\materija.h
+	<random>
+
+1561506730 c:\users\user\desktop\testcv\testcv\camera.h
+	"ray.h"
+
+1561563130 c:\users\user\desktop\testcv\testcv\plane.h
+	"ray.h"
+	<math.h>
+
+1561563282 c:\users\user\desktop\testcv\testcv\polygon.h
+	"ray.h"
+	<vector>
+	"segment.h"
+	<math.h>
+
+1561561291 c:\users\user\desktop\testcv\testcv\segment.h
+
+1561624102 c:\users\user\desktop\testcv\testcv\disc.h
+	"ray.h"
+	<math.h>
+
